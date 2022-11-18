@@ -1,7 +1,7 @@
 export default class User {
     constructor(first, last) {
         this.first = first
-        this.last=last
+        this.last = last
     }
 }
 
